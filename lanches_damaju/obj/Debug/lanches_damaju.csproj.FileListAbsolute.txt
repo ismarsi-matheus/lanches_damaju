@@ -1,0 +1,10 @@
+C:\Users\matheus.lismarsi\source\repos\lanches_damaju\lanches_damaju\bin\Debug\lanches_damaju.exe.config
+C:\Users\matheus.lismarsi\source\repos\lanches_damaju\lanches_damaju\bin\Debug\lanches_damaju.exe
+C:\Users\matheus.lismarsi\source\repos\lanches_damaju\lanches_damaju\bin\Debug\lanches_damaju.pdb
+C:\Users\matheus.lismarsi\source\repos\lanches_damaju\lanches_damaju\obj\Debug\lanches_damaju.csproj.AssemblyReference.cache
+C:\Users\matheus.lismarsi\source\repos\lanches_damaju\lanches_damaju\obj\Debug\lanches_damaju.produtos.resources
+C:\Users\matheus.lismarsi\source\repos\lanches_damaju\lanches_damaju\obj\Debug\lanches_damaju.Properties.Resources.resources
+C:\Users\matheus.lismarsi\source\repos\lanches_damaju\lanches_damaju\obj\Debug\lanches_damaju.csproj.GenerateResource.cache
+C:\Users\matheus.lismarsi\source\repos\lanches_damaju\lanches_damaju\obj\Debug\lanches_damaju.csproj.CoreCompileInputs.cache
+C:\Users\matheus.lismarsi\source\repos\lanches_damaju\lanches_damaju\obj\Debug\lanches_damaju.exe
+C:\Users\matheus.lismarsi\source\repos\lanches_damaju\lanches_damaju\obj\Debug\lanches_damaju.pdb
