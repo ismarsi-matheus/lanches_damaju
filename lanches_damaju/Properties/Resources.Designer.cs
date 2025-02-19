@@ -63,6 +63,16 @@ namespace lanches_damaju.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap logo2__1_ {
+            get {
+                object obj = ResourceManager.GetObject("logo2 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap menu_lanche {
             get {
                 object obj = ResourceManager.GetObject("menu_lanche", resourceCulture);

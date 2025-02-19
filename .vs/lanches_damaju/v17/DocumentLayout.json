@@ -3,16 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|c:\\users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\consulta_prod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|solutionrelative:lanches_damaju\\consulta_prod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|c:\\users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\gerenciamento_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|solutionrelative:lanches_damaju\\gerenciamento_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\consulta_prod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|solutionrelative:lanches_damaju\\consulta_prod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\gerenciamento_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|solutionrelative:lanches_damaju\\gerenciamento_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\cadastro_de_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|solutionrelative:lanches_damaju\\cadastro_de_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|solutionrelative:lanches_damaju\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|solutionrelative:lanches_damaju\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\cad_produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|solutionrelative:lanches_damaju\\cad_produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\cad_produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|solutionrelative:lanches_damaju\\cad_produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|solutionrelative:lanches_damaju\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|solutionrelative:lanches_damaju\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|solutionrelative:lanches_damaju\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|c:\\users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|solutionrelative:lanches_damaju\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\cadastro_de_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|solutionrelative:lanches_damaju\\cadastro_de_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B61086A-EF83-4FCA-9D74-12DDDC61B937}|lanches_damaju\\lanches_damaju.csproj|solutionrelative:lanches_damaju\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +62,22 @@
       "DocumentGroups": [
         {
           "DockedHeight": 340,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Menu.cs",
+              "RelativeDocumentMoniker": "lanches_damaju\\Menu.cs",
+              "ToolTip": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Menu.cs",
+              "RelativeToolTip": "lanches_damaju\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:56:27.85Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -31,6 +85,120 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "consulta_prod.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\consulta_prod.cs",
+              "RelativeDocumentMoniker": "lanches_damaju\\consulta_prod.cs",
+              "ToolTip": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\consulta_prod.cs",
+              "RelativeToolTip": "lanches_damaju\\consulta_prod.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAEwCwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:23:24.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gerenciamento_Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Gerenciamento_Clientes.cs",
+              "RelativeDocumentMoniker": "lanches_damaju\\Gerenciamento_Clientes.cs",
+              "ToolTip": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Gerenciamento_Clientes.cs",
+              "RelativeToolTip": "lanches_damaju\\Gerenciamento_Clientes.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:16:22.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cadastro_de_clientes.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Cadastro_de_clientes.cs",
+              "RelativeDocumentMoniker": "lanches_damaju\\Cadastro_de_clientes.cs",
+              "ToolTip": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Cadastro_de_clientes.cs",
+              "RelativeToolTip": "lanches_damaju\\Cadastro_de_clientes.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAwHAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T00:47:47.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cad_produtos.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Cad_produtos.cs",
+              "RelativeDocumentMoniker": "lanches_damaju\\Cad_produtos.cs",
+              "ToolTip": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Cad_produtos.cs",
+              "RelativeToolTip": "lanches_damaju\\Cad_produtos.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwGQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:10:19.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Program.cs",
+              "RelativeDocumentMoniker": "lanches_damaju\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Program.cs",
+              "RelativeToolTip": "lanches_damaju\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:45:34.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Login.cs",
+              "RelativeDocumentMoniker": "lanches_damaju\\Login.cs",
+              "ToolTip": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Login.cs",
+              "RelativeToolTip": "lanches_damaju\\Login.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:29:43.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "consulta_prod.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\consulta_prod.cs",
+              "RelativeDocumentMoniker": "lanches_damaju\\consulta_prod.cs",
+              "ToolTip": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\consulta_prod.cs [Design]",
+              "RelativeToolTip": "lanches_damaju\\consulta_prod.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:54:49.691Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cadastro_de_clientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Cadastro_de_clientes.cs",
+              "RelativeDocumentMoniker": "lanches_damaju\\Cadastro_de_clientes.cs",
+              "ToolTip": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Cadastro_de_clientes.cs [Design]",
+              "RelativeToolTip": "lanches_damaju\\Cadastro_de_clientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:36:50.157Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Login.cs",
+              "RelativeDocumentMoniker": "lanches_damaju\\Login.cs",
+              "ToolTip": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Login.cs [Design]",
+              "RelativeToolTip": "lanches_damaju\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:39:47.012Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Menu.cs [Design]",
               "DocumentMoniker": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Menu.cs",
               "RelativeDocumentMoniker": "lanches_damaju\\Menu.cs",
@@ -42,27 +210,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Form1.cs",
-              "RelativeDocumentMoniker": "lanches_damaju\\Form1.cs",
-              "ToolTip": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Form1.cs",
-              "RelativeToolTip": "lanches_damaju\\Form1.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowE8AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Cad_produtos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Cad_produtos.cs",
+              "RelativeDocumentMoniker": "lanches_damaju\\Cad_produtos.cs",
+              "ToolTip": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Cad_produtos.cs [Design]",
+              "RelativeToolTip": "lanches_damaju\\Cad_produtos.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T13:46:07.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T11:44:44.169Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Form1.cs",
-              "RelativeDocumentMoniker": "lanches_damaju\\Form1.cs",
-              "ToolTip": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Form1.cs [Design]",
-              "RelativeToolTip": "lanches_damaju\\Form1.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "Gerenciamento_Clientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Gerenciamento_Clientes.cs",
+              "RelativeDocumentMoniker": "lanches_damaju\\Gerenciamento_Clientes.cs",
+              "ToolTip": "C:\\Users\\matheus.lismarsi\\source\\repos\\lanches_damaju\\lanches_damaju\\Gerenciamento_Clientes.cs [Design]",
+              "RelativeToolTip": "lanches_damaju\\Gerenciamento_Clientes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T11:44:44.169Z",
+              "WhenOpened": "2025-02-18T17:19:31.117Z",
               "EditorCaption": " [Design]"
             }
           ]

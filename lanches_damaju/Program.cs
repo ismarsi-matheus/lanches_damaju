@@ -16,7 +16,7 @@ namespace lanches_damaju
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new produtos());
+            Application.Run(new Login()); // Agora inicia pelo Login
         }
     }
 }

@@ -98,11 +98,35 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Cadastro_de_clientes.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Cadastro_de_clientes.Designer.cs">
+      <DependentUpon>Cadastro_de_clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="consulta_prod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consulta_prod.Designer.cs">
+      <DependentUpon>consulta_prod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cad_produtos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cad_produtos.Designer.cs">
+      <DependentUpon>Cad_produtos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gerenciamento_Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerenciamento_Clientes.Designer.cs">
+      <DependentUpon>Gerenciamento_Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
     </Compile>
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
@@ -112,8 +136,20 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Cadastro_de_clientes.resx">
+      <DependentUpon>Cadastro_de_clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consulta_prod.resx">
+      <DependentUpon>consulta_prod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cad_produtos.resx">
+      <DependentUpon>Cad_produtos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerenciamento_Clientes.resx">
+      <DependentUpon>Gerenciamento_Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
@@ -150,6 +186,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\menu_lanche02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2 %281%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
